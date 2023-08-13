@@ -1,0 +1,15 @@
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\bin\Debug\net7.0\Dz68.exe
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\bin\Debug\net7.0\Dz68.deps.json
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\bin\Debug\net7.0\Dz68.runtimeconfig.json
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\bin\Debug\net7.0\Dz68.dll
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\bin\Debug\net7.0\Dz68.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.csproj.AssemblyReference.cache
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.AssemblyInfoInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.AssemblyInfo.cs
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.csproj.CoreCompileInputs.cache
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.dll
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\refint\Dz68.dll
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.pdb
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\Dz68.genruntimeconfig.cache
+C:\Users\mikha\OneDrive\Рабочий стол\C#DzSdacha\alldz06_2023\Dz68\obj\Debug\net7.0\ref\Dz68.dll
